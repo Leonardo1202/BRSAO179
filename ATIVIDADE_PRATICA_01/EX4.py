@@ -1,5 +1,5 @@
 
-produto = mesa
+produto = "mesa"
 
 preco = 15,30
 
